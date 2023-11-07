@@ -8,6 +8,6 @@ function toggleMode() {
       img.setAttribute("alt", "Mayk Light")
   } else {
     img.setAttribute("src", "./assets/avatar.png"),
-      img.setAttribute("src", "Mayk Normal")
+      img.setAttribute("alt", "Mayk Normal")
   }
 }
